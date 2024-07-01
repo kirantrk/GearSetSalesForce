@@ -73,6 +73,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.GearSet_With_Out_CLI__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>ApptBundleConfig.AddToBundleStatuses</field>
         <readable>true</readable>
     </fieldPermissions>
